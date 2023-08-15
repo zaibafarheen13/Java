@@ -1,0 +1,1 @@
+This file(.txt) is accessed from a java programs which aslo gives the lines of this file.
